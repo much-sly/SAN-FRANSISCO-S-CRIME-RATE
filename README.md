@@ -12,7 +12,7 @@ To determine the rate of crime rate in San Francisco.
 
 To show how the crime rate varies over time.
 
-![Trend Image](Trend.PNG)
+
 
 ## METHODOLOGY
 
@@ -20,6 +20,8 @@ Data Wrangling: In this section, I imported the necessary libraries, loaded the 
 Exploratory Data Analysis: In this section, I used various plots and graphs to have a better understanding of the data and draw insights.
 
 Model Selection and Evaluation: In this section, I chose two time series models; Arima model and the Auto_Arima models. I first evaluated a baseline to see the threshold where my results should fall within. Differencing gave different results for both models.
+
+![Trend Image](Trend.PNG)
 
 ## CONCLUSIONS
 
