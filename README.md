@@ -12,6 +12,8 @@ To determine the rate of crime rate in San Francisco.
 
 To show how the crime rate varies over time.
 
+![Trend Image](Trend.PNG)
+
 ## METHODOLOGY
 
 Data Wrangling: In this section, I imported the necessary libraries, loaded the data and cleaned the data by dropping unnecessary columns, rows and handling missing values.
